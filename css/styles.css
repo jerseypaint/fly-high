@@ -68,7 +68,7 @@ section {
 }
 
 .images_item:nth-of-type(1) {
-    background-image: url("../images/airplane-cloudy-skies.jpg");
+    background-image: url("../images/Skyhawk-cloud.jpg");
 }
 
 .images_item:nth-of-type(2) {
@@ -80,11 +80,11 @@ section {
 }
 
 .images_item:nth-of-type(4) {
-    background-image: url("../images/fly-high-denver-sunset.jpg");
+    background-image: url("../images/Cowling-sunset.jpg");
 }
 
 .images_item:nth-of-type(5) {
-    background-image: url("../images/sunrise-airplane.JPG");    
+    background-image: url("../images/Cessna-sunset.JPG");    
 }
 
 footer .fh_row {
